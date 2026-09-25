@@ -72,7 +72,7 @@ These help identify workflow failures and verify that important system component
 
 **Automation & Orchestration:** n8n  
 **AI / LLM Access:** OpenRouter  
-**Appointment Data:** Google Sheets  
+**Appointment Data:** Supabase  
 **Notifications:** Email  
 **Monitoring:** n8n error monitoring and daily health checks
 
