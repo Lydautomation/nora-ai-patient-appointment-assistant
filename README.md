@@ -47,6 +47,12 @@ A typical booking flow follows this process:
 
 NORA also supports separate conversational flows for appointment retrieval, rescheduling, and cancellation.
 
+## System Design
+
+The system design documentation provides a visual overview of NORA's architecture and appointment-management process.
+
+[View NORA System Design](docs/nora-system-design.pdf)
+
 ## Human Oversight
 
 NORA is designed to automate repetitive appointment-management tasks while keeping healthcare staff involved where human review, intervention, or decision-making is required.
@@ -69,6 +75,7 @@ These help identify workflow failures and verify that important system component
 **Appointment Data:** Google Sheets  
 **Notifications:** Email  
 **Monitoring:** n8n error monitoring and daily health checks
+
 ## Privacy & Data Handling
 
 Public demonstrations and documentation for NORA use fictional or test information only.
