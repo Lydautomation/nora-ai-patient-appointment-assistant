@@ -53,6 +53,13 @@ The system design documentation provides a visual overview of NORA's architectur
 
 [View NORA System Design](docs/nora-system-design.pdf)
 
+## Demo
+
+Watch NORA in action as it demonstrates the patient appointment-management workflow, including conversational appointment handling and automated actions.
+
+[**Watch NORA Demo**](https://www.loom.com/share/40e3dec8b11c41da91c2491c3de77d21)
+
+## Project Screenshots
 ## Project Screenshots
 
 ### Workflow Overview
