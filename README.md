@@ -60,7 +60,6 @@ Watch NORA in action as it demonstrates the patient appointment-management workf
 [**Watch NORA Demo**](https://www.loom.com/share/40e3dec8b11c41da91c2491c3de77d21)
 
 ## Project Screenshots
-## Project Screenshots
 
 ### Workflow Overview
 
