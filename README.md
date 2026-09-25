@@ -122,4 +122,5 @@ No real patient information, private credentials, API keys, authentication token
 
 ---
 
-**Built by [Lydia Ogbene Odey](https://github.com/Lydautomation)**
+**Built by Lydia Ogbene Odey**  
+AI Automation Specialist | Health Tech Automation | Sales & CRM Automation
