@@ -55,9 +55,9 @@ The system design documentation provides a visual overview of NORA's architectur
 
 ## Demo
 
-Watch NORA in action as it demonstrates the patient appointment-management workflow, including conversational appointment handling and automated actions.
+Watch NORA in action as it demonstrates the patient appointment journey, including appointment booking, availability checking, confirmation, retrieval, rescheduling, cancellation, and automated reminders.
 
-[**Watch NORA Demo**](https://www.loom.com/share/40e3dec8b11c41da91c2491c3de77d21)
+[**Watch NORA Demo**](https://youtu.be/OOYRbVwHkOg?si=zbOXVT4wQMT7_Il_)
 
 ## Project Screenshots
 
